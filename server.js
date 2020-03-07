@@ -25,4 +25,4 @@ app.use('/graphql', expressGraphQL({
     graphiql: true
 }))
 
-app.listen(5000, () => console.log('server running'))
+app.listen(5000, () => console.log('Server Running'))
